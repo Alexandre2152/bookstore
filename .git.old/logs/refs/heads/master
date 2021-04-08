@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 0cb0b2d80439174e0ca9b2d153c0854a62539c51 alexandre251387 <ajfs2513@gmail.com> 1617059675 -0300	commit (initial): initial commit
+0cb0b2d80439174e0ca9b2d153c0854a62539c51 837c67d6f482f851f7bc031f667a656034a189d4 alexandre251387 <ajfs2513@gmail.com> 1617062353 -0300	commit: angular material instalado no projeto
+837c67d6f482f851f7bc031f667a656034a189d4 3261bbc6cab9e5a99a8e2f4fcb38c074faa37715 alexandre251387 <ajfs2513@gmail.com> 1617071050 -0300	commit: Criação do layout
+3261bbc6cab9e5a99a8e2f4fcb38c074faa37715 5051c206dcd18a50832d8e1dae421e558019430a alexandre251387 <ajfs2513@gmail.com> 1617143992 -0300	commit: HOME implementado com rota
+5051c206dcd18a50832d8e1dae421e558019430a ed8a7e2cd69f0c612cd30e377d217ef00efddedb alexandre251387 <ajfs2513@gmail.com> 1617325764 -0300	commit: categoria-read foi implementado
+ed8a7e2cd69f0c612cd30e377d217ef00efddedb 263bb72d501dadce1648779b12e01fba55b11250 alexandre251387 <ajfs2513@gmail.com> 1617409090 -0300	commit: ajuste no componente-read
+263bb72d501dadce1648779b12e01fba55b11250 9ee8440cf8ca49c819ac7efb1920952416343156 alexandre251387 <ajfs2513@gmail.com> 1617495590 -0300	commit: metodo create implementado para categoria
+9ee8440cf8ca49c819ac7efb1920952416343156 42a0b8055d43c9468ce84606d6aaf5a13d5a7a6b alexandre251387 <ajfs2513@gmail.com> 1617495773 -0300	commit: metodo cancelar e coltar para a página categoria
+42a0b8055d43c9468ce84606d6aaf5a13d5a7a6b 8c8a8bf6a738b8074580b90f164760e66f8ea139 alexandre251387 <ajfs2513@gmail.com> 1617659978 -0300	commit: categoria DELETE implementada
+8c8a8bf6a738b8074580b90f164760e66f8ea139 267fc80dcaab67950218b55abeca23d4d6cbe324 alexandre251387 <ajfs2513@gmail.com> 1617663478 -0300	commit: UPDATE para categoria foi implementado
+267fc80dcaab67950218b55abeca23d4d6cbe324 ebf516f49ff5cb04f1f20d0cef4d4df3d210c202 alexandre251387 <ajfs2513@gmail.com> 1617752158 -0300	commit: Leitura de todos os livros por categoria implementado
+ebf516f49ff5cb04f1f20d0cef4d4df3d210c202 0d7b3db6e8ca7628d62e239ab2bd63298c0a59dc alexandre251387 <ajfs2513@gmail.com> 1617752734 -0300	commit (merge): correção no repositorio do git
+0d7b3db6e8ca7628d62e239ab2bd63298c0a59dc 68a11f206af0923b6536193bf0005fafb951b203 alexandre251387 <ajfs2513@gmail.com> 1617843182 -0300	commit: UPDATE para livro implementado
+68a11f206af0923b6536193bf0005fafb951b203 feb67937f3de568fc7a95bae9b9a38eee4563f52 alexandre251387 <ajfs2513@gmail.com> 1617844715 -0300	commit: DELETE para o livro foi implementado
+feb67937f3de568fc7a95bae9b9a38eee4563f52 e71ec076e5580632b80b3c93d2094d012419c236 alexandre251387 <ajfs2513@gmail.com> 1617845703 -0300	commit: READ para livros implementado
+e71ec076e5580632b80b3c93d2094d012419c236 bb17ef8559b1d389ae0707e6ca604614b0ee5f24 alexandre251387 <ajfs2513@gmail.com> 1617846243 -0300	commit: inserindo url para produção
